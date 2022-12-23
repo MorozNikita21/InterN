@@ -1,0 +1,5 @@
+public interface Integer {
+    void summ();
+    void diff();
+    void print();
+}
